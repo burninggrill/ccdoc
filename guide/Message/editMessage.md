@@ -28,7 +28,7 @@ Edits a message.
 		This is a fantastic edited message!
 	</discord-message>
 	<discord-message :bot="false" role-color="#ffcc9a" author="Member">
-		!!exec $editMessage[879431439299543040;This is a fantastic editted message!;880055520210329651]
+		!!exec $editMessage[879431439299543040;This is a fantastic edited message!;880055520210329651]
 	</discord-message>
 </discord-messages>
 
